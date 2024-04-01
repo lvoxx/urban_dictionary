@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://cdn.discordapp.com/attachments/989526224768495627/1224299397312151592/urban-word-dictionary-high-resolution-logo.png?ex=661cfcaa&is=660a87aa&hm=18291ba1b1972be9eda64fc451c9fd572f70c595d19d262eb5af1f314db24986&" alt="Project logo"></a>
+ <img src="https://cdn.discordapp.com/attachments/989526224768495627/1224299397312151592/urban-word-dictionary-high-resolution-logo.png?ex=661cfcaa&is=660a87aa&hm=18291ba1b1972be9eda64fc451c9fd572f70c595d19d262eb5af1f314db24986&" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Urban Dictionary App</h3>
@@ -31,16 +31,16 @@
 
 ### Splash Screen
 
-<img src="https://cdn.discordapp.com/attachments/989526224768495627/1224293373435711488/Screenshot_2024-04-01-15-13-57-209_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=97f7d25670d9f1cd090ac507636b87a810c6dd7bea4e7c46be48ac8605bd3fe3&" alt="Splash Screen"/>
+<img width=350px src="https://cdn.discordapp.com/attachments/989526224768495627/1224293373435711488/Screenshot_2024-04-01-15-13-57-209_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=97f7d25670d9f1cd090ac507636b87a810c6dd7bea4e7c46be48ac8605bd3fe3&" alt="Splash Screen"/>
 
 ### Random Urban Words
 
-<img src="https://cdn.discordapp.com/attachments/989526224768495627/1224293373758935081/Screenshot_2024-04-01-15-14-08-368_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=6a9696bd7efdf7ca65cfef13c0fb75f97395759cd950e8ca138f851e1af18fd9&" alt="Random Screen - 1"/>'
-<img src="https://cdn.discordapp.com/attachments/989526224768495627/1224293374048075826/Screenshot_2024-04-01-15-14-16-752_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=9166f904ad7d39a6f28954fca9ab08c10428742650bc9a1c5c00260c66f88459&" alt="Random Screen - 2"/>
+<img width=350px src="https://cdn.discordapp.com/attachments/989526224768495627/1224293373758935081/Screenshot_2024-04-01-15-14-08-368_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=6a9696bd7efdf7ca65cfef13c0fb75f97395759cd950e8ca138f851e1af18fd9&" alt="Random Screen - 1"/>'
+<img width=350px src="https://cdn.discordapp.com/attachments/989526224768495627/1224293374048075826/Screenshot_2024-04-01-15-14-16-752_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=9166f904ad7d39a6f28954fca9ab08c10428742650bc9a1c5c00260c66f88459&" alt="Random Screen - 2"/>
 
 ### Search Urban Words
 
-<img src="https://cdn.discordapp.com/attachments/989526224768495627/1224293374295543891/Screenshot_2024-04-01-15-15-22-881_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=4e214517c4ad8b72569dfc4ad1f7a457599606f270b42b9dd98cd21600fb8c86&" alt="Search Screen"/>
+<img width=350px src="https://cdn.discordapp.com/attachments/989526224768495627/1224293374295543891/Screenshot_2024-04-01-15-15-22-881_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=4e214517c4ad8b72569dfc4ad1f7a457599606f270b42b9dd98cd21600fb8c86&" alt="Search Screen"/>
 
 ### 🎈 Usage
 
