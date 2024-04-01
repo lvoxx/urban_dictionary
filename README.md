@@ -1,114 +1,62 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://cdn.discordapp.com/attachments/989526224768495627/1224299397312151592/urban-word-dictionary-high-resolution-logo.png?ex=661cfcaa&is=660a87aa&hm=18291ba1b1972be9eda64fc451c9fd572f70c595d19d262eb5af1f314db24986&" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Urban Dictionary App</h3>
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
+  <a href="#">
+    <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/lvoxx/urban_dictionary?style=for-the-badge"/>
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/lvoxx/urban_dictionary/total?style=for-the-badge"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+    <img alt="License: GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge"/>
+  </a>&nbsp;&nbsp;
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
+## 🧐 About
 
-## 📝 Table of Contents
+"This is an Urban Dictionary app built with Flutter, featuring two main functions: search and random urban words. You can download and explore it, remember to adjust your API key <a href="https://github.com/lvoxx/urban_dictionary/blob/main/lib/core/constant/string.dart">here</a> on the <a href="https://rapidapi.com/community/api/urban-dictionary/">Rapid API</a> website."
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+## 🌠 Features
 
-## 🧐 About <a name = "about"></a>
+### Splash Screen
 
-Write about 1-2 paragraphs describing the purpose of your project.
+<img src="https://cdn.discordapp.com/attachments/989526224768495627/1224293373435711488/Screenshot_2024-04-01-15-13-57-209_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=97f7d25670d9f1cd090ac507636b87a810c6dd7bea4e7c46be48ac8605bd3fe3&" alt="Splash Screen"/>
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+### Random Urban Words
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+<img src="https://cdn.discordapp.com/attachments/989526224768495627/1224293373758935081/Screenshot_2024-04-01-15-14-08-368_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=6a9696bd7efdf7ca65cfef13c0fb75f97395759cd950e8ca138f851e1af18fd9&" alt="Random Screen - 1"/>'
+<img src="https://cdn.discordapp.com/attachments/989526224768495627/1224293374048075826/Screenshot_2024-04-01-15-14-16-752_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=9166f904ad7d39a6f28954fca9ab08c10428742650bc9a1c5c00260c66f88459&" alt="Random Screen - 2"/>
 
-### Prerequisites
+### Search Urban Words
 
-What things you need to install the software and how to install them.
+<img src="https://cdn.discordapp.com/attachments/989526224768495627/1224293374295543891/Screenshot_2024-04-01-15-15-22-881_com.lvoxx.urban_dictionary.jpg?ex=661cf70e&is=660a820e&hm=4e214517c4ad8b72569dfc4ad1f7a457599606f270b42b9dd98cd21600fb8c86&" alt="Search Screen"/>
 
-```
-Give examples
-```
+### 🎈 Usage
 
-### Installing
+1. Go to Rapid API web and get yours X-RapidAPI-Key and X-RapidAPI-Host, you can find it <a href="https://rapidapi.com/community/api/urban-dictionary/">Here</a>
 
-A step by step series of examples that tell you how to get a development env running.
+2. Put your key in src file that hold the api string in <a href="https://github.com/lvoxx/urban_dictionary/blob/main/lib/core/constant/string.dart">(project-root)/core/constant/string.dart</a>
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+3. Build app.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+|                                                                                                                                         Author                                                                                                                                          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/lvoxx.png?size=250" width=115><br><sub>@lvoxx</sub>](https://github.com/lvoxx) <br><br> [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.patreon.com/lvoxxArtist) |
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+## 🎉 Enjoy my work ?
+Support me on:
+- <a href="https://me.momo.vn/lvoxxdonate">Momo (Vietnam)</a>
+- <a href="https://www.paypal.me/lvoxx">Paypal</a>
